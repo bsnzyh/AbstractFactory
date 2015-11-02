@@ -1,0 +1,9 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\DALB.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\DALB.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\obj\Debug\DALB.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\obj\Debug\DALB.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\IDAL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\IDAL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\DALB\obj\Debug\DALB.csprojResolveAssemblyReference.cache

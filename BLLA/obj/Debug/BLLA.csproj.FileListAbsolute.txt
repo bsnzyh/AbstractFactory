@@ -1,0 +1,17 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\BLLA.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\BLLA.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\IBLL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\IBLL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\obj\Debug\BLLA.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\obj\Debug\BLLA.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\obj\Debug\BLLA.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\AbsDalFactory.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\IDAL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\DALA.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\DALB.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\AbsDalFactory.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\IDAL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\DALA.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLA\bin\Debug\DALB.pdb

@@ -1,0 +1,7 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\bin\Debug\IDAL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\bin\Debug\IDAL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\obj\Debug\IDAL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IDAL\obj\Debug\IDAL.pdb

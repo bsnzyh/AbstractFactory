@@ -1,0 +1,7 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\bin\Debug\IBLL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\bin\Debug\IBLL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\obj\Debug\IBLL.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\obj\Debug\IBLL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\IBLL\obj\Debug\IBLL.pdb

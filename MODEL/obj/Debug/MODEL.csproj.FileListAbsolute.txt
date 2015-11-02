@@ -1,0 +1,4 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\MODEL\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\MODEL\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\MODEL\obj\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\MODEL\obj\Debug\MODEL.pdb

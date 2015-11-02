@@ -1,0 +1,9 @@
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\BLLB.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\BLLB.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\IBLL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\MODEL.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\IBLL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\bin\Debug\MODEL.pdb
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\obj\Debug\BLLB.csprojResolveAssemblyReference.cache
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\obj\Debug\BLLB.dll
+I:\Study\Dot_Net_Code\01设计模式\01抽象工厂\AbstractFactory\BLLB\obj\Debug\BLLB.pdb
